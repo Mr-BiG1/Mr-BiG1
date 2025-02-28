@@ -39,7 +39,7 @@
 
 ## 🔥 My Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-BiG1&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-BiG1&theme=green" alt="GitHub Streak" />
 </p>
 
 <p align="center">
