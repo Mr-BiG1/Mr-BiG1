@@ -57,14 +57,11 @@
 
 ## 📫 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/darsan-sabu-george">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Mr-BiG1">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
-  </a>
-  <a href="https://twitter.com/your-profile">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white">
   </a>
 </p>
 
