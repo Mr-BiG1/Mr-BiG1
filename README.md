@@ -45,9 +45,8 @@
 
 ## 🔥 My Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-BiG1&show_icons=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mr-BiG1&theme=darkhub" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-BiG1&show_icons=true&theme=darkhub" alt="GitHub Stats" />
