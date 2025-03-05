@@ -1,4 +1,6 @@
-<h1 align="center"> Hello World 👋, I'm Darsan Sabu George </h1>
+<div align="center">
+  <h1> Hello World 👋, I'm Darsan Sabu George </h1>
+</div>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl1ams2cm8wd2MybTBlMzBvYjJ1bno1dmlwb2FyeHhwNnJ3YTN4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hKdDwtTZ6gD0AS7etL/giphy.gif" width="400px" height="250px">
@@ -12,7 +14,10 @@
 - 🌍 Love contributing to **Open Source, CTF Challenges, and Network Security**.
 - ✨ **Motto:** "Break, Fix, Automate, Secure!"
 
+---
+
 ## ⚡ Technologies :
+
 ### 🔹 Programming Languages
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,7 +29,6 @@
 ### 🔹 Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust)
 
 ### 🔹 Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -37,10 +41,13 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white)
 
+---
+
 ## 🔥 My Stats :
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-BiG1&theme=darkhub" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-BiG1&show_icons=true&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-BiG1&show_icons=true&theme=darkhub" alt="GitHub Stats" />
@@ -54,6 +61,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-BiG1&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+---
 
 ## 📫 Connect with Me:
 <p align="center">
@@ -70,4 +79,3 @@
 </p>
 
 🚀 **Happy Coding & Stay Secure!** 🔥
-
