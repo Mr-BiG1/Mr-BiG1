@@ -56,6 +56,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mr-BiG1&theme=darkhub" alt="GitHub Achievements" />
 </p>
 
+## 📆 Contribution Activity:
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-BiG1&theme=react-dark)
+
 ### 🔹 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-BiG1&layout=compact&theme=dark" alt="Top Languages" />
