@@ -14,9 +14,8 @@
 - 🌍 Love contributing to **Open Source, CTF Challenges, and Network Security**.
 - ✨ **Motto:** "Break, Fix, Automate, Secure!"
 
- ### ⌨️ Weekly Coding Stats (Powered by WakaTime)
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mr_BiG1&layout=compact&theme=github_dark)
+### 🎧 My Current Vibe
+[![Now Playing](https://img.shields.io/badge/Now_Playing-Drake%20--%20God's%20Plan-1DB954?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn)
 
 
 <!-- Use readme-quote by PiyushSuthar -->
