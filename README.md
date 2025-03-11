@@ -14,6 +14,14 @@
 - 🌍 Love contributing to **Open Source, CTF Challenges, and Network Security**.
 - ✨ **Motto:** "Break, Fix, Automate, Secure!"
 
+ ### ⌨️ Weekly Coding Stats (Powered by WakaTime)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Mr_BiG1&layout=compact&theme=github_dark)
+
+
+<!-- Use readme-quote by PiyushSuthar -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
 
 ## ⚡ Technologies :
@@ -65,6 +73,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-BiG1&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+
 
 ---
 
