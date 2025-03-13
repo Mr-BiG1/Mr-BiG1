@@ -31,6 +31,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/-C#-0175C2?logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0175C2?logo=dart&logoColor=yellow)
 
 ### 🔹 Frontend Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
