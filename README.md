@@ -29,9 +29,9 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/-C#-0175C2?logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-0175C2?logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-0175C2?logo=dart&logoColor=yellow)
+![C#](https://img.shields.io/badge/--0175C2?logo=C#&logoColor=purple)
+![C++](https://img.shields.io/badge/-C++-0175C2?logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0175C2?logo=python&logoColor=yellow)
 
 ### 🔹 Frontend Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
