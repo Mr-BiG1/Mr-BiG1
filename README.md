@@ -17,7 +17,6 @@
 ### 🎧 My Current Vibe
 [![Now Playing](https://img.shields.io/badge/Now_Playing-Drake%20--%20God's%20Plan-1DB954?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn)
 
-
 <!-- Use readme-quote by PiyushSuthar -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -73,8 +72,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-BiG1&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
-
 
 ---
 
